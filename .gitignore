@@ -31,3 +31,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Android build process
+build-tools/
+cmdline-tools/
+licenses/
+platform-tools/
+platforms/
+gradle*/
+.temp
